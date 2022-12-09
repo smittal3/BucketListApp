@@ -1,0 +1,24 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "http": "0.0.1-security",
+    "image-search-google": "^1.3.0",
+    "js": "^0.1.0",
+    "mongodb": "^4.12.1",
+    "node-fetch": "^3.3.0",
+    "whatwg-fetch": "^3.6.2"
+  }
+}
